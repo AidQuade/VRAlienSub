@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.AidanVRSUBinteract.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\aidan\OneDrive\Desktop\AidanVRSUBinteract\.idea\.idea.AidanVRSUBinteract\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
